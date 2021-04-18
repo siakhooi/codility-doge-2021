@@ -2,11 +2,11 @@
 
 - [https://app.codility.com/programmers/challenges/doge2021/](https://app.codility.com/programmers/challenges/doge2021/)
 
-## Gold Version
+## Gold Award
 
 - **TheDoge2021E.java**
 
-## Silver Verions
+## Silver Awards
 
 - **TheDoge2021A.java**
 - **TheDoge2021B.java**
