@@ -12,3 +12,7 @@
 - **TheDoge2021B.java**
 - **TheDoge2021C.java**
 - **TheDoge2021D.java**
+
+## Others
+
+- **TheDoge2021F.java** - java implementation of solution published by Codility.

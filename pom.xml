@@ -6,6 +6,7 @@
 	<groupId>nsh.codility</groupId>
 	<artifactId>doge2021</artifactId>
 	<version>1.0.0</version>
+	<packaging>jar</packaging>
 
 	<name>doge2021</name>
 	<url>https://github.com/siakhooi/codility-doge-2021/</url>
