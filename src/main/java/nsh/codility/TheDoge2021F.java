@@ -1,6 +1,7 @@
 package nsh.codility;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Stack;
 
 public class TheDoge2021F implements TheDoge2021Interface {
 	public boolean solution(int[] P, int[] T, int[] A, int[] B) {
